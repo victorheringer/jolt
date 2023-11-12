@@ -1,0 +1,17 @@
+{
+  "name": "pkm-sprites-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "extract": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-pixels": "^3.3.3",
+    "image-pixels": "^2.2.2",
+    "jimp": "^0.22.7"
+  }
+}
